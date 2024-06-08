@@ -1,7 +1,7 @@
 /*
-    Code by : Projects_learner
-    Project name : 2 LED Module using Ardino UNO
-    Modified Date : 28-05-2023
+    Project name : 3 LED Module using Ardino UNO
+    Modified Date : 28-06-2023
+    Code by : Projectslearner
     Website : https://projectslearner.com/learn/arduino-uno-3-color-led-module
 */
 
